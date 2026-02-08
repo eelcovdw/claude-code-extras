@@ -15,7 +15,7 @@ INCLUDE=(
 
 # Extra paths to EXCLUDE even if not gitignored (fd glob patterns)
 EXCLUDE=(
-  'dist'
+  '.git'
 )
 
 # ---
